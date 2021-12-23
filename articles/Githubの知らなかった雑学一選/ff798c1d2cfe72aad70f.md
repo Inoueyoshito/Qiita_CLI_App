@@ -1,11 +1,11 @@
 ---
-id: 6ef15daf81b69221390b
+id: ff798c1d2cfe72aad70f
 title: Githubの知らなかった雑学一選
-created_at: 2021-12-23T10:26:26+09:00
-updated_at: 2021-12-23T10:26:26+09:00
-tags: [{"name":"Git","versions":[]}]
+created_at: 2021-12-23T09:55:47+09:00
+updated_at: 2021-12-23T09:55:47+09:00
+tags: [{"name":"Git","versions":[]},{"name":"GitHub","versions":[]},{"name":"雑学","versions":[]}]
 private: false
-url: https://qiita.com/ora_yoshito/items/6ef15daf81b69221390b
+url: https://qiita.com/ora_yoshito/items/ff798c1d2cfe72aad70f
 likes_count: 0
 ---
 
