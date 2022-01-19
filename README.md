@@ -34,4 +34,3 @@ qiita patch:article
 qiita --help
 ```
 で確認できます。
-
